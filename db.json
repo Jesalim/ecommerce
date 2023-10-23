@@ -1,0 +1,10 @@
+{
+"products":[
+	{"id":1,"productName":"iPhone","price":8900,"quantity":0},
+	{"id":2,"productName":"Sony Camera","price":4500,"quantity":0},
+	{ "id": 3, "productName": "Mac book", "price": 4500, "quantity": 0 },
+	{ "id": 4, "productName": "Samsung", "price": 6000, "quantity": 0 },
+	{"id":5,"productName":"Hisense","price":6000,"quantity":0},
+	{ "id": 6, "productName": "LG", "price": 9000, "quantity": 0 }
+]
+}
